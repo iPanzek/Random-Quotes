@@ -4,10 +4,10 @@ I first created the Random Quote Machine with jQuery as the first of the FreeCod
 
 ## Tech Stack 
 
-React Hooks 
-React-fontawesome
-GitHub API for quotes 
-Node.js
+* React Hooks 
+* React-fontawesome
+* GitHub API for quotes 
+* Node.js
 
 ## Getting Started with Create React App
 
