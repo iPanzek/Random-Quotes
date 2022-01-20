@@ -1,13 +1,14 @@
 # Random Quote Machine
 
-I first created the Random Quote Machine with jQuery as the first of the FreeCodeCamp 5 projects to earn the Front End Development Libraries. I have recreated this improved version as a side project using React (Hook) and standardised the UI for aesthetic and responsiveness, a mobile-first-approach to web development.
+First created the Random Quote Machine with jQuery as one of the FreeCodeCamp 5 projects to earn the Front End Development Libraries Certificate. Recreated this improved version as a side project using React (Hooks) and standardised the UI for aesthetic and webpage-responsiveness (a mobile-first-approach).
 
 ## Tech Stack 
 
+* HTML and CSS
+* JavaScript 
 * React Hooks 
 * React-fontawesome
 * GitHub API for quotes 
-* Node.js
 
 ## Getting Started with Create React App
 
